@@ -3,10 +3,7 @@ on:
   push: 
     branches:
       - "master"
- 
-    create:
 
-  
 jobs:
   test: 
     name: Test
